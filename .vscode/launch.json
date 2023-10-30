@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Main<spring-3-keycloak>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.edw.Main",
+            "projectName": "spring-3-keycloak",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
